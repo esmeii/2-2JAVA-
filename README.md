@@ -1,4 +1,5 @@
 # 2-2JAVA
+#007396
 - 2학년 2학기 전공기초 JAVA프로그래밍및실습 강의 수강 기록
 - CHAPTER 01 자바 시작
     1.1 컴퓨터와 프로그래밍
@@ -12,7 +13,7 @@
     Open Challenge
     연습문제
 
-CHAPTER 02 자바 기본 프로그래밍
+- CHAPTER 02 자바 기본 프로그래밍
     2.1 자바 프로그램의 구조
     2.2 식별자
     2.3 자바의 데이터 타입
@@ -23,7 +24,7 @@ CHAPTER 02 자바 기본 프로그래밍
     Open Challenge
     연습문제
 
-CHAPTER 03 반복문과 배열 그리고 예외 처리
+- CHAPTER 03 반복문과 배열 그리고 예외 처리
     3.1 반복문
     3.2 continue 문과 break 문
     3.3 배열
@@ -35,7 +36,7 @@ CHAPTER 03 반복문과 배열 그리고 예외 처리
     Open Challenge
     연습문제
 
-CHAPTER 04 클래스와 객체
+- CHAPTER 04 클래스와 객체
     4.1 객체 지향과 자바
     4.2 자바 클래스 만들기
     4.3 생성자
@@ -49,7 +50,7 @@ CHAPTER 04 클래스와 객체
     Open Challenge
     연습문제
 
-CHAPTER 05 상속
+- CHAPTER 05 상속
     5.1 상속의 개념
     5.2 클래스 상속과 객체
     5.3 상속과 protected 접근 지정자
