@@ -1,5 +1,5 @@
 # 2-2JAVA
-#007396
+![image](https://user-images.githubusercontent.com/96706954/156947831-31ee6945-a831-4913-9b42-267a38475e0d.png)
 - 2학년 2학기 전공기초 JAVA프로그래밍및실습 강의 수강 기록
 - CHAPTER 01 자바 시작
     1.1 컴퓨터와 프로그래밍
